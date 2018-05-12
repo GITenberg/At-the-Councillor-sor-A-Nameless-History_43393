@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '28338'
     url: http://www.gutenberg.org/2009/agents/28338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43393#At-the-Councillor-sor-A-Nameless-History
 gutenberg_issued: '2013-08-03'
 gutenberg_type: Text
 identifiers:
